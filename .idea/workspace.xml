@@ -5,14 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b028495-a03d-4dc2-a215-51eebecfb4aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HashMap/ConcurrentHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HashMap/FailFastVsEnumeration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HashMap/SynchronizedMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java_Naming_Conventions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/ExtendAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/IA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/ImplementsIA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OOP/TestOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Questions/FinalFinallyFinalize/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Questions/FinalFinallyFinalize/LearnFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Questions/FinalFinallyFinalize/LearnFinalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Questions/FinalFinallyFinalize/LearnFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Questions/FinalFinallyFinalize/MyFinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Questions/FinalFinallyFinalize/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Strings/ExploreTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,9 +45,12 @@
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Consumer.java" root0="SKIP_INSPECTION" />
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Supplier.java" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nZaqNhdZ5H4I35S53myjX8fUYi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,8 +61,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConcurrentHashMapExample.executor": "Run",
+    "Application.FailFastVsEnumeration.executor": "Run",
+    "Application.Final.executor": "Run",
+    "Application.LearnFinalize.executor": "Run",
+    "Application.LearnFinally.executor": "Run",
     "Application.LearnLambda.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.SynchronizedMapExample.executor": "Run",
+    "Application.TestOOP.executor": "Run",
+    "Application.URLify.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -67,6 +89,82 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="org.example" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.URLify">
+    <configuration name="LearnFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Questions.FinalFinallyFinalize.LearnFinal" />
+      <module name="PlayJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Questions.FinalFinallyFinalize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnFinalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Questions.FinalFinallyFinalize.LearnFinalize" />
+      <module name="PlayJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Questions.FinalFinallyFinalize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Questions.FinalFinallyFinalize.LearnFinally" />
+      <module name="PlayJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Questions.FinalFinallyFinalize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OOP.TestOOP" />
+      <module name="PlayJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DSA.URLify" />
+      <module name="PlayJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.DSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.URLify" />
+        <item itemvalue="Application.TestOOP" />
+        <item itemvalue="Application.LearnFinalize" />
+        <item itemvalue="Application.LearnFinally" />
+        <item itemvalue="Application.LearnFinal" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
